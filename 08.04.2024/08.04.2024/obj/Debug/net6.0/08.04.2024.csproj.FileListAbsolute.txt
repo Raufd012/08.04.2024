@@ -1,0 +1,4 @@
+C:\Users\user\Desktop\08.04.2024\08.04.2024\obj\Debug\net6.0\08.04.2024.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\08.04.2024\08.04.2024\obj\Debug\net6.0\08.04.2024.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\08.04.2024\08.04.2024\obj\Debug\net6.0\08.04.2024.AssemblyInfo.cs
+C:\Users\user\Desktop\08.04.2024\08.04.2024\obj\Debug\net6.0\08.04.2024.csproj.CoreCompileInputs.cache
